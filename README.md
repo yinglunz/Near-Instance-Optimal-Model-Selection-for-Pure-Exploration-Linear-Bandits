@@ -1,6 +1,6 @@
 # Near Instance Optimal Model Selection for Pure Exploration Linear Bandits
 
-This is the python code for our AISTATS 2022 paper **Near Instance Optimal Model Selection for Pure Exploration Linear Bandits**. Packages used include: numpy, sys, multiprocessing, pickle, time, logging and matplotlib.
+This repository contains the python code for our AISTATS 2022 paper **Near Instance Optimal Model Selection for Pure Exploration Linear Bandits**. Packages used include: numpy, sys, multiprocessing, pickle, time, logging and matplotlib.
 
 Let `x = 0` (for experiment in Section 7) or `x = 1` (for experiment in Appendix F, we also set `max_iter = 500` in `algs_class.py` in this experiment). Use the following commands to reproduce our experiments.
 
